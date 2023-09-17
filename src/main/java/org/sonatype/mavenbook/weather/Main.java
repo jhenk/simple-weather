@@ -1,5 +1,6 @@
 package org.sonatype.mavenbook.weather;
 
+
 import java.io.InputStream;
 
 import org.apache.log4j.PropertyConfigurator;
